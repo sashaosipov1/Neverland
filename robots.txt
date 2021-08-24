@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /.gitignore
+Disallow: /bitbucket-pipelines.yml
+Disallow: /deploy/
+Disallow: /Server.php
+Disallow: /ajax.php
+Disallow: /vendor/
+Disallow: /classes/
+Disallow: /deploy/
+Disallow: /js/
+Disallow: /personal.php
+ 
+Host: http://never1and.ru
